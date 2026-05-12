@@ -38,6 +38,18 @@
             "backgroundColor": "#000000"
           }
         }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "O ReciclaInteligente usa sua localização para encontrar ecopontos de reciclagem próximos a você."
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "O ReciclaInteligente usa a câmera para identificar e classificar resíduos com inteligência artificial."
+        }
       ]
     ],
     "experiments": {
